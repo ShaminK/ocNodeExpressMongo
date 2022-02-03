@@ -35,5 +35,6 @@ Dans le fichier app.js à la ligne 9, modifiez le l'adresse SVR par la vôtre et
     cd backend
     nodemon server
 
-:eight: Allez dans la partie 3
+:eight: Allez dans la partie 3 
+
 L'application est prête à l'emploi :ok_hand:	:ok_hand:	
