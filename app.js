@@ -6,7 +6,7 @@ const path = require('path');
 const stuffRoutes = require('./routes/stuff');
 const userRoutes = require('./routes/user');
 
-mongoose.connect('mongodb+srv://Shamin94:deboder94@cluster0.3ed5r.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+mongoose.connect('',
     {
         useNewUrlParser: true,
         useUnifiedTopology: true
