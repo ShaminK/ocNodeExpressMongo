@@ -10,7 +10,7 @@ Lien vers le cours :point_right: https://openclassrooms.com/fr/courses/6390246-p
 
 :two: Cloner la partie frontend (réalisée par openclassrooms) dans le répertoire "frontend" via la commande :point_down: :point_down: :point_down:
       
-    git clone https:<span></span>//github.com/OpenClassrooms-Student-Center/go-fullstack-v3-fr.git frontend
+    git clone https://github.com/OpenClassrooms-Student-Center/go-fullstack-v3-fr.git frontend
 
 :three: Lancement du serveur frontend via la commande :point_down: :point_down: :point_down:
 
